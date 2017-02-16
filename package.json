@@ -1,13 +1,13 @@
 {
   "name": "xuh-ui",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "UI Theme inspired by artist xuh",
   "keywords": [
     "ui",
     "theme"
   ],
-  "repository": "https://github.com/louisdeb/ui-theme-template",
+  "repository": "https://github.com/louisdeb/xuh-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
