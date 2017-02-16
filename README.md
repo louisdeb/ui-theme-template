@@ -4,7 +4,7 @@
 
 A UI theme for Atom, inspired by artist [xuh](http://gimb.tumblr.com/) (no permission asked or granted).
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/louisdeb/xuh-ui/master/screenshot.png)
 
 The syntax theme I have used here is Duotone Light with
 - Uno: hsb(359, 0%, 0%) (a.k.a black)
